@@ -1,0 +1,15 @@
+{
+  "name": "port-scanner",
+  "version": "1.0.0",
+  "description": "Simple port scanner using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "scan": "node index.js"
+  },
+  "keywords": ["port", "scanner", "network", "proxy"],
+  "author": "Tuan Fazrr",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
